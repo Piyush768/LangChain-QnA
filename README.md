@@ -1,8 +1,8 @@
-# LangChain-QnA
+# QnAChatbot-Langchain
 
 ## Description
 
-LangChain-QnA is an interactive conversational Q&A chatbot built using **Streamlit** and **LangChain**. The app uses OpenAI's GPT-3.5 to generate human-like responses based on user input. The chatbot is designed to provide clear, friendly, and engaging answers for any questions asked.
+QnAChatbot-Langchain is an interactive conversational Q&A chatbot built using **Streamlit** and **LangChain**. The app uses OpenAI's GPT-3.5 to generate human-like responses based on user input. The chatbot is designed to provide clear, friendly, and engaging answers for any questions asked.
 
 ## Features
 
@@ -59,10 +59,6 @@ This will launch the application, and you can interact with the chatbot via your
 1. **Ask Questions**: Type your question in the input box and hit "Ask the Question."
 2. **Receive Responses**: The chatbot will provide answers based on its trained model.
 
-
-## License
-
-This project is licensed under the MIT License.
 
 ---
 
